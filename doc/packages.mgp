@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PackageAnalysis>
+    <Package name="edu.luc.etl.cs313.android.simpletimer.android"
+        x="16" y="24">
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.model"/>
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.common"/>
+    </Package>
+    <Package name="edu.luc.etl.cs313.android.simpletimer.model"
+        x="327" y="191">
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.model.state"/>
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.model.clock"/>
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.model.time"/>
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.common"/>
+    </Package>
+    <Package
+        name="edu.luc.etl.cs313.android.simpletimer.model.clock"
+        x="316" y="432"/>
+    <Package
+        name="edu.luc.etl.cs313.android.simpletimer.model.state"
+        x="610" y="499">
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.model.clock"/>
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.model.time"/>
+        <DependencyLink destination="edu.luc.etl.cs313.android.simpletimer.common"/>
+    </Package>
+    <Package name="edu.luc.etl.cs313.android.simpletimer.model.time"
+        x="610" y="23"/>
+    <Package name="edu.luc.etl.cs313.android.simpletimer.common"
+        x="16" y="504"/>
+</PackageAnalysis>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" tests="7" skipped="0" failures="0" errors="0" timestamp="2020-04-23T04:24:01" hostname="DESKTOP-7PQN14P" time="0.009">
+  <properties/>
+  <testcase name="testPreconditions" classname="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" time="0.004"/>
+  <testcase name="testIncrementRuntimeMany" classname="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" time="0.001"/>
+  <testcase name="testIncrementRuntimeOne" classname="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" time="0.001"/>
+  <testcase name="testDecrementRuntimeOne" classname="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" time="0.001"/>
+  <testcase name="testDecrementRuntimeMany" classname="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" time="0.0"/>
+  <testcase name="testDecrementTimeoutMany" classname="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" time="0.0"/>
+  <testcase name="testDecrementTimeoutOne" classname="edu.luc.etl.cs313.android.simpletimer.test.model.time.Test" time="0.0"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

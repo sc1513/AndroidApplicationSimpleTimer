@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.luc.etl.cs313.android.simpletimer.test.model.state.Test" tests="5" skipped="0" failures="0" errors="0" timestamp="2020-04-23T04:24:01" hostname="DESKTOP-7PQN14P" time="0.04">
+  <properties/>
+  <testcase name="testScenarioCancelRunning" classname="edu.luc.etl.cs313.android.simpletimer.test.model.state.Test" time="0.028"/>
+  <testcase name="testActivityScenarioRepeatIncrementWithin3Seconds" classname="edu.luc.etl.cs313.android.simpletimer.test.model.state.Test" time="0.001"/>
+  <testcase name="testPreconditions" classname="edu.luc.etl.cs313.android.simpletimer.test.model.state.Test" time="0.001"/>
+  <testcase name="testScenarioStopAlarming" classname="edu.luc.etl.cs313.android.simpletimer.test.model.state.Test" time="0.004"/>
+  <testcase name="testScenarioSetTimerValue" classname="edu.luc.etl.cs313.android.simpletimer.test.model.state.Test" time="0.001"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>

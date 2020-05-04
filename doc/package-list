@@ -1,0 +1,12 @@
+edu.luc.etl.cs313.android.simpletimer.android
+edu.luc.etl.cs313.android.simpletimer.common
+edu.luc.etl.cs313.android.simpletimer.model
+edu.luc.etl.cs313.android.simpletimer.model.alarm
+edu.luc.etl.cs313.android.simpletimer.model.clock
+edu.luc.etl.cs313.android.simpletimer.model.state
+edu.luc.etl.cs313.android.simpletimer.model.time
+edu.luc.etl.cs313.android.simpletimer.test.android
+edu.luc.etl.cs313.android.simpletimer.test.model.alarm
+edu.luc.etl.cs313.android.simpletimer.test.model.clock
+edu.luc.etl.cs313.android.simpletimer.test.model.state
+edu.luc.etl.cs313.android.simpletimer.test.model.time

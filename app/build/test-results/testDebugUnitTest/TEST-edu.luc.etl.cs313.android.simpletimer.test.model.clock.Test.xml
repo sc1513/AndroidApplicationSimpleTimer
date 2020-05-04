@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="edu.luc.etl.cs313.android.simpletimer.test.model.clock.Test" tests="2" skipped="0" failures="0" errors="0" timestamp="2020-04-23T04:23:50" hostname="DESKTOP-7PQN14P" time="11.017">
+  <properties/>
+  <testcase name="testRunning" classname="edu.luc.etl.cs313.android.simpletimer.test.model.clock.Test" time="5.513"/>
+  <testcase name="testStopped" classname="edu.luc.etl.cs313.android.simpletimer.test.model.clock.Test" time="5.503"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
